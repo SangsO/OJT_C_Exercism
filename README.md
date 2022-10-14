@@ -1,1 +1,1 @@
-# OJT_C_Exersim
+# OJT_C_Exercism
